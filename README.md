@@ -38,8 +38,8 @@ This application allows users to upload music files, organize them into albums, 
    cd vop_be
 2. Install dependencies:
 
-
- ```npm install
+ ```bash
+ npm install
 
 3. Create a .env file in the root directory and add your configuration:
 
